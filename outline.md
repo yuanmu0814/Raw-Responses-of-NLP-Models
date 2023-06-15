@@ -1,0 +1,23 @@
+- Outline
+  - Introduction
+    - Overview of the growth of natural language processing (NLP).
+    - Current challenges faced by NLP models mentioned by other researchers.
+      - Lack of distinct "voice" and robotic text generation.
+      - Lack of robustness.
+      - Security issues.
+      - Possible gaps: Lack abilities of long-chain thinking and jumping thinking.
+    - Introduction to the experiment this article took to assess NLP model competency behaviors.
+  - Main body
+    - Results of the Logical Ability test experiment
+      - Test 1: Simple responses to predetermined questions.
+      - Test 2: Logical reasoning ability.
+      - Test 3: Logic for solving mathematical problems.
+      - Test 4: Coding logic.
+      - Test 5: Text composition logic.
+  - Methodology
+    - The setting conditions of the experiment.
+    - A graphical presentation of the experiment's original results.
+  - Conclusion
+    - Summary of the challenges faced by NLP models in long-chain and jumping thinking.
+  - Outlook
+    - Predicted advancements in computer technology are expected to bring about significant changes.
