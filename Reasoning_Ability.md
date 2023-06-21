@@ -1,4 +1,4 @@
-# Raw-Responses-of-NLP-Models_reasoning ability
+# Raw-Responses-of-NLP-Models_Reasoning_Ability
 - Q1:***1+？=3***
     - *ChatGPT:*
         >- In the equation "1+?=3," the missing value represented by "?" would be 2. Adding 1 to 2 equals 3. If you have any more math questions or if there's anything else I can assist you with, please let me know!
